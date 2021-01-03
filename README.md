@@ -8,3 +8,10 @@ This code has function to plot basic plots like
 
 ##
 Will include other plots in future of function development
+
+
+The Main parameters to the function are 
+1. X axis array (list only)
+2. Category of the wave.
+
+Request you to refer the code for better visualization.
